@@ -1,5 +1,43 @@
-# 💫 About Me:
-🏹 I’m currently working on<br>Building Scrubs Co-Pilot — an AI-powered clinical assistant that streamlines patient intake, charting, and follow-ups for healthcare professionals.<br><br>🤝 I’m looking to collaborate on<br>Innovative AI projects in healthcare, LLM-driven automation, and serverless deployments with Supabase, Twilio, and Cohere/OpenAI.<br><br>👐 I’m looking for help with<br>Scaling secure HIPAA-compliant AI solutions, improving speech-to-text accuracy for noisy environments, and fine-tuning embeddings for healthcare data.<br><br>🌱 I’m currently learning<br>Advanced LLM orchestration, multi-turn conversational memory design, and cost-optimized AI infrastructure.<br><br>💬 Ask me about<br>Serverless AI architectures, integrating Twilio with Supabase Edge Functions, or migrating Neo4j graph data to relational databases.<br><br>⚡ Fun fact<br>I’ve had seven different genera of pets — and I’ve sketched most of them.<br><br>
+💫 About Me
+🏹 Currently Building
+Scrubs Co-Pilot — an AI-powered clinical assistant that streamlines patient intake, charting, and follow-ups for healthcare professionals.
+
+🤝 Let’s Collaborate On
+
+Innovative AI projects in healthcare
+
+LLM-driven automation
+
+Serverless deployments with Supabase, Twilio, and Cohere/OpenAI
+
+👐 Looking For Help With
+
+Scaling secure HIPAA-compliant AI solutions
+
+Improving speech-to-text accuracy in noisy environments
+
+Fine-tuning embeddings for healthcare data
+
+🌱 Currently Learning
+
+Advanced LLM orchestration & multi-turn conversational memory
+
+Cost-optimized AI infrastructure
+
+💬 Ask Me About
+
+Serverless AI architectures
+
+Twilio + Supabase Edge Functions
+
+Migrating Neo4j graph data to relational databases
+
+⚡ Fun Fact
+I’ve had seven different genera of pets — and sketched most of them.
+
+🎨 My Sketches
+
+
 
 
 ## 🌐 Socials:
