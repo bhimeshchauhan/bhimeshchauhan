@@ -1,44 +1,36 @@
-💫 About Me
-🏹 Currently Building
-Scrubs Co-Pilot — an AI-powered clinical assistant that streamlines patient intake, charting, and follow-ups for healthcare professionals.
+## 💫 About Me
 
-🤝 Let’s Collaborate On
+🏹 **Currently Building**  
+Scrubs Co-Pilot — an AI-powered clinical assistant that streamlines patient intake, charting, and follow-ups for healthcare professionals.  
 
-Innovative AI projects in healthcare
+🤝 **Let’s Collaborate On**  
+- Innovative AI projects in healthcare  
+- LLM-driven automation  
+- Serverless deployments with Supabase, Twilio, and Cohere/OpenAI  
 
-LLM-driven automation
+👐 **Looking For Help With**  
+- Scaling secure HIPAA-compliant AI solutions  
+- Improving speech-to-text accuracy in noisy environments  
+- Fine-tuning embeddings for healthcare data  
 
-Serverless deployments with Supabase, Twilio, and Cohere/OpenAI
+🌱 **Currently Learning**  
+- Advanced LLM orchestration & multi-turn conversational memory  
+- Cost-optimized AI infrastructure  
 
-👐 Looking For Help With
+💬 **Ask Me About**  
+- Serverless AI architectures  
+- Twilio + Supabase Edge Functions  
+- Migrating Neo4j graph data to relational databases  
 
-Scaling secure HIPAA-compliant AI solutions
+⚡ **Fun Fact**  
+I’ve had seven different genera of pets — and sketched most of them.  
 
-Improving speech-to-text accuracy in noisy environments
+🎨 **My Sketches**  
 
-Fine-tuning embeddings for healthcare data
-
-🌱 Currently Learning
-
-Advanced LLM orchestration & multi-turn conversational memory
-
-Cost-optimized AI infrastructure
-
-💬 Ask Me About
-
-Serverless AI architectures
-
-Twilio + Supabase Edge Functions
-
-Migrating Neo4j graph data to relational databases
-
-⚡ Fun Fact
-I’ve had seven different genera of pets — and sketched most of them.
-
-🎨 My Sketches
-
-
-
+|  |  |
+|---|---|
+| <img width="400" height="400" alt="ChatGPT Image Jul 22, 2025, 04_22_42 PM" src="https://github.com/user-attachments/assets/bf5f7e75-a3e7-447b-9171-221169bd4b74" /> | <img width="400" height="400" alt="ChatGPT Image Jul 26, 2025, 11_32_08 PM" src="https://github.com/user-attachments/assets/adad6b8f-a985-459d-88fd-76feb447ed88" /> |
+| <img width="400" height="400" alt="Camera Image Jul 18, 2025, 09_17_40 PM" src="https://github.com/user-attachments/assets/5a41b530-9cb5-43dc-b93d-9722d988126b" /> | <img width="400" height="400" alt="Camera Image Jul 18, 2025, 09_14_18 PM" src="https://github.com/user-attachments/assets/c4f6a92f-ee74-478d-80b4-1ebeff2052e3" /> |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/http://instagram.com/come_on_bhimesh/followers/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhimeshchauhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhimeshchauhan@gmail.com) 
