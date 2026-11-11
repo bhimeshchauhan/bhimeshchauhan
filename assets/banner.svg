@@ -12,6 +12,8 @@
   <text x="48" y="156" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" fill="#a3a8b8">Production RAG and LLM systems · multi-tenant platforms · retrieval I measure and publish</text>
   <text x="48" y="196" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#6f7488" letter-spacing="1.6">HOW MY ASSISTANT ANSWERS</text>
   <path id="p" d="M115 238 L885 238" stroke="#2a2f42" stroke-width="2" stroke-dasharray="5 6" fill="none"/>
+  <circle r="14" fill="#ffb454" opacity=".25"><animateMotion dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .55 1"><mpath href="#p"/></animateMotion></circle>
+  <circle r="7" fill="#ffb454"><animateMotion dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .55 1"><mpath href="#p"/></animateMotion></circle>
   <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="middle">
     <g><rect x="50" y="220" width="130" height="36" rx="18" fill="#161a26" stroke="#2a2f42"/><text x="115" y="243" fill="#f2f0ea">Question</text></g>
     <g><rect x="238" y="220" width="130" height="36" rx="18" fill="#161a26" stroke="#2a2f42"/><text x="303" y="243" fill="#f2f0ea">Embed</text></g>
@@ -19,6 +21,4 @@
     <g><rect x="634" y="220" width="130" height="36" rx="18" fill="#161a26" stroke="#2a2f42"/><text x="699" y="243" fill="#f2f0ea">Rerank</text></g>
     <g><rect x="822" y="220" width="130" height="36" rx="18" fill="#ffb454"/><text x="887" y="243" fill="#0b0c10">Answer</text></g>
   </g>
-  <circle r="7" fill="#ffb454"><animateMotion dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .55 1"><mpath href="#p"/></animateMotion></circle>
-  <circle r="14" fill="#ffb454" opacity=".25"><animateMotion dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .55 1"><mpath href="#p"/></animateMotion></circle>
 </svg>
