@@ -13,6 +13,12 @@ I build and run production RAG and LLM systems end to end, from retrieval archit
 
 <a href="https://bhimeshchauhan.github.io/case-studies/"><img src="assets/stats.svg" alt="About $700K in sales in under 48 hours. About 80% less clinician documentation time. About 200 daily users across three companies. 97% retrieval hit in the top 8 on 30 fresh questions." width="100%"></a>
 
+## Activity
+
+Days with at least one contribution, by year. Private-repository work is counted but never named.
+
+<img src="assets/activity.svg" alt="Bar chart of active GitHub days by year from 2017 to 2026: 1,195 active days and 8,919 contributions in total, with 2026 the busiest year so far at 219 days." width="100%">
+
 ## Selected work
 
 Most of my recent work is client or private, so the write-ups live on my site:

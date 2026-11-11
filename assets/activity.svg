@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Days with at least one GitHub contribution, by year, from 2017 to 2026: 2017 3, 2018 36, 2019 100, 2020 85, 2021 197, 2022 193, 2023 172, 2024 115, 2025 75, 2026 219. 1195 active days and 8919 contributions in total, private repositories included as counts only.">
+<title>Active days on GitHub, by year</title>
+<rect width="1000" height="300" rx="16" fill="#0b0c10" stroke="#262b3d"/>
+<text x="32" y="40" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#6f7488" letter-spacing="1.6">ACTIVE DAYS ON GITHUB, BY YEAR</text>
+<text x="32" y="74" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#f2f0ea">1,195 active days · 8,919 contributions since 2017</text>
+<text x="968" y="74" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#a3a8b8" text-anchor="end">private repositories included as counts only</text>
+<rect x="48" y="232" width="62" height="4" rx="6" fill="#ffb454" opacity="0.55"/>
+<text x="79.0" y="224" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f2f0ea" text-anchor="middle">3</text>
+<text x="79.0" y="256" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a3a8b8" text-anchor="middle" font-weight="400">2017</text>
+<text x="79.0" y="274" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6f7488" text-anchor="middle">3 contrib.</text>
+<rect x="138" y="217" width="62" height="19" rx="6" fill="#ffb454" opacity="0.55"/>
+<text x="169.0" y="209" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f2f0ea" text-anchor="middle">36</text>
+<text x="169.0" y="256" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a3a8b8" text-anchor="middle" font-weight="400">2018</text>
+<text x="169.0" y="274" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6f7488" text-anchor="middle">105 contrib.</text>
+<rect x="228" y="183" width="62" height="53" rx="6" fill="#ffb454" opacity="0.55"/>
+<text x="259.0" y="175" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f2f0ea" text-anchor="middle">100</text>
+<text x="259.0" y="256" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a3a8b8" text-anchor="middle" font-weight="400">2019</text>
+<text x="259.0" y="274" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6f7488" text-anchor="middle">190 contrib.</text>
+<rect x="318" y="191" width="62" height="45" rx="6" fill="#ffb454" opacity="0.55"/>
+<text x="349.0" y="183" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f2f0ea" text-anchor="middle">85</text>
+<text x="349.0" y="256" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a3a8b8" text-anchor="middle" font-weight="400">2020</text>
+<text x="349.0" y="274" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6f7488" text-anchor="middle">215 contrib.</text>
+<rect x="408" y="130" width="62" height="106" rx="6" fill="#ffb454" opacity="0.55"/>
+<text x="439.0" y="122" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f2f0ea" text-anchor="middle">197</text>
+<text x="439.0" y="256" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a3a8b8" text-anchor="middle" font-weight="400">2021</text>
+<text x="439.0" y="274" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6f7488" text-anchor="middle">654 contrib.</text>
+<rect x="498" y="133" width="62" height="103" rx="6" fill="#ffb454" opacity="0.55"/>
+<text x="529.0" y="125" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f2f0ea" text-anchor="middle">193</text>
+<text x="529.0" y="256" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a3a8b8" text-anchor="middle" font-weight="400">2022</text>
+<text x="529.0" y="274" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6f7488" text-anchor="middle">532 contrib.</text>
+<rect x="588" y="144" width="62" height="92" rx="6" fill="#ffb454" opacity="0.55"/>
+<text x="619.0" y="136" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f2f0ea" text-anchor="middle">172</text>
+<text x="619.0" y="256" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a3a8b8" text-anchor="middle" font-weight="400">2023</text>
+<text x="619.0" y="274" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6f7488" text-anchor="middle">603 contrib.</text>
+<rect x="678" y="175" width="62" height="61" rx="6" fill="#ffb454" opacity="0.55"/>
+<text x="709.0" y="167" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f2f0ea" text-anchor="middle">115</text>
+<text x="709.0" y="256" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a3a8b8" text-anchor="middle" font-weight="400">2024</text>
+<text x="709.0" y="274" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6f7488" text-anchor="middle">362 contrib.</text>
+<rect x="768" y="196" width="62" height="40" rx="6" fill="#ffb454" opacity="0.55"/>
+<text x="799.0" y="188" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f2f0ea" text-anchor="middle">75</text>
+<text x="799.0" y="256" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a3a8b8" text-anchor="middle" font-weight="400">2025</text>
+<text x="799.0" y="274" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6f7488" text-anchor="middle">233 contrib.</text>
+<rect x="858" y="118" width="62" height="118" rx="6" fill="#ffb454" opacity="1"/>
+<text x="889.0" y="110" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f2f0ea" text-anchor="middle">219</text>
+<text x="889.0" y="256" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#ffb454" text-anchor="middle" font-weight="600">2026</text>
+<text x="889.0" y="274" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6f7488" text-anchor="middle">6,022 contrib.</text>
+</svg>
