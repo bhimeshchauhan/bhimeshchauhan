@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Example: asked what Bhimesh did at Rare Days, the assistant answers that he led Ask Kindred to production and built the platform behind it, with a trace of retrieved passages">
+  <title>Example exchange with the assistant on my site</title>
+  <rect width="1000" height="250" rx="16" fill="#0b0c10" stroke="#262b3d"/>
+  <text x="32" y="38" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#6f7488" letter-spacing="1.6">EXAMPLE: THE ASSISTANT ON MY SITE</text>
+  <rect x="520" y="56" width="448" height="40" rx="20" fill="#ffb454"/>
+  <text x="544" y="82" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#0b0c10">What did Bhimesh do at Rare Days?</text>
+  <text x="32" y="130" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" fill="#f2f0ea">Led Ask Kindred from SDK integration to production for three customer</text>
+  <text x="32" y="156" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" fill="#f2f0ea">companies, and built the reusable multi-tenant RAG platform behind it.</text>
+  <rect x="32" y="182" width="504" height="38" rx="10" fill="#11131c" stroke="#262b3d"/>
+  <text x="50" y="206" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a3a8b8"><tspan fill="#f2f0ea" font-weight="600">How this answer was made</tspan> · passages retrieved, scores and timings</text>
+  <text x="968" y="206" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#ffb454" text-anchor="end">Try it on the site →</text>
+</svg>

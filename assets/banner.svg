@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 290" width="1000" height="290" role="img" aria-labelledby="t d">
+  <title id="t">Bhimesh Chauhan, lead AI platform engineer</title>
+  <desc id="d">Banner showing a retrieval pipeline: question, embed, search, rerank, answer, with a dot travelling along it.</desc>
+  <defs>
+    <radialGradient id="g" cx="82%" cy="30%" r="70%"><stop offset="0" stop-color="#ffb454" stop-opacity=".22"/><stop offset=".55" stop-color="#3b4bd8" stop-opacity=".10"/><stop offset="1" stop-color="#0b0c10" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1000" height="290" rx="16" fill="#0b0c10"/>
+  <rect width="1000" height="290" rx="16" fill="url(#g)"/>
+  <rect x="48" y="38" width="48" height="4" fill="#ffb454"/>
+  <text x="48" y="92" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="52" font-weight="700" fill="#f2f0ea" letter-spacing="-1.2">Bhimesh Chauhan</text>
+  <text x="48" y="128" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="24" fill="#ffb454" font-weight="600">Lead AI platform engineer</text>
+  <text x="48" y="156" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" fill="#a3a8b8">Production RAG and LLM systems · multi-tenant platforms · retrieval I measure and publish</text>
+  <text x="48" y="196" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#6f7488" letter-spacing="1.6">HOW MY ASSISTANT ANSWERS</text>
+  <path id="p" d="M115 238 L885 238" stroke="#2a2f42" stroke-width="2" stroke-dasharray="5 6" fill="none"/>
+  <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="middle">
+    <g><rect x="50" y="220" width="130" height="36" rx="18" fill="#161a26" stroke="#2a2f42"/><text x="115" y="243" fill="#f2f0ea">Question</text></g>
+    <g><rect x="238" y="220" width="130" height="36" rx="18" fill="#161a26" stroke="#2a2f42"/><text x="303" y="243" fill="#f2f0ea">Embed</text></g>
+    <g><rect x="436" y="220" width="130" height="36" rx="18" fill="#161a26" stroke="#2a2f42"/><text x="501" y="243" fill="#f2f0ea">Search</text></g>
+    <g><rect x="634" y="220" width="130" height="36" rx="18" fill="#161a26" stroke="#2a2f42"/><text x="699" y="243" fill="#f2f0ea">Rerank</text></g>
+    <g><rect x="822" y="220" width="130" height="36" rx="18" fill="#ffb454"/><text x="887" y="243" fill="#0b0c10">Answer</text></g>
+  </g>
+  <circle r="7" fill="#ffb454"><animateMotion dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .55 1"><mpath href="#p"/></animateMotion></circle>
+  <circle r="14" fill="#ffb454" opacity=".25"><animateMotion dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .55 1"><mpath href="#p"/></animateMotion></circle>
+</svg>
