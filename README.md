@@ -15,9 +15,11 @@ I build and run production RAG and LLM systems end to end, from retrieval archit
 
 ## Activity
 
-Days with at least one contribution, by year. Private-repository work is counted but never named.
+Every day I contributed since 2017, one star each: the field gets denser as the work does. Private-repository work is counted but never named.
 
-<img src="assets/activity.svg" alt="Bar chart of active GitHub days by year from 2017 to 2026: 1,195 active days and 8,919 contributions in total, with 2026 the busiest year so far at 219 days." width="100%">
+<a href="https://bhimeshchauhan.github.io/activity/"><img src="assets/activity-sky.svg" alt="Activity sky: every day with a GitHub contribution from 2017 to 2026 drawn as a star, one row per year. 1,195 active days in total, with 2026 the densest row." width="100%"></a>
+
+**[Explore it on my site](https://bhimeshchauhan.github.io/activity/)**: hover or tap any star for its date and count.
 
 ## Selected work
 
